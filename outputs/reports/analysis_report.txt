@@ -7,10 +7,37 @@ Highest Average: 97.00
 Lowest Average: 47.67
 Average Attendance: 80.85%
 Average Study Hours: 4.25
+Class Pass Percentage: 80.00%
+
+SUBJECT-WISE AVERAGE MARKS
+-----------------------------------
+Math Average: 74.65
+Science Average: 76.85
+English Average: 76.60
+Best Performing Subject: science_score
+Weakest Performing Subject: math_score
+
+GRADE DISTRIBUTION
+-----------------------------------
+Grade A: 3 Students
+Grade B: 6 Students
+Grade C: 5 Students
+Grade D: 2 Students
+Grade F: 4 Students
 
 TOP 5 STUDENTS
-S010: 97.00
-S004: 93.67
-S016: 93.33
-S006: 89.67
-S013: 87.33
+-----------------------------------
+S010: 97.00 (A)
+S004: 93.67 (A)
+S016: 93.33 (A)
+S006: 89.67 (B)
+S013: 87.33 (B)
+
+STUDENTS WITH LOW ATTENDANCE
+-----------------------------------
+S003: 65%
+S007: 50%
+S009: 72%
+S012: 60%
+S017: 68%
+S020: 74%
